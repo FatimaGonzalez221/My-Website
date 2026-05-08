@@ -1,0 +1,62 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///media/archive/NewSandboxProgram.zip/contact.html
+Subject: Contact Me
+Date: Fri, 8 May 2026 09:06:23 -0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--mPXRrUg1vIUqvIvYea1jLx94JYoGombP1O5nEm1qBC----"
+
+
+------MultipartBoundary--mPXRrUg1vIUqvIvYea1jLx94JYoGombP1O5nEm1qBC----
+Content-Type: text/html
+Content-ID: <frame-AA74DEE9322B757AB755ACCCDA772339@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///media/archive/NewSandboxProgram.zip/contact.html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3Dwindows-1252"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css=
+-8d1cb73f-e0cd-4d68-bb82-1212f8b37e3b@mhtml.blink" /></head><body><form>
+    <label>Your Name:</label><br>
+    <input type=3D"Fatima Gonzalez"><br><br>
+   =20
+    <label>Your Email</label><br>
+    <input type=3D"email"><br><br>
+   =20
+    <label>Your message:</label><br>
+    <textarea></textarea><br><br>
+   =20
+    <button>Submit</button>
+</form>
+
+<nav>
+    <a href=3D"file:///media/archive/NewSandboxProgram.zip/Index.html">Home=
+</a>
+    <a href=3D"file:///media/archive/NewSandboxProgram.zip/About.html" abou=
+t=3D"" me<=3D"" a=3D"">
+    </a><a href=3D"file:///media/archive/NewSandboxProgram.zip/Hobbies.html=
+">Hobbies</a>=20
+    <a href=3D"file:///media/archive/NewSandboxProgram.zip/Contact.html">Co=
+ntact</a>
+
+
+
+
+    <title>Contact Me</title>
+   =20
+   =20
+</nav></body></html>
+------MultipartBoundary--mPXRrUg1vIUqvIvYea1jLx94JYoGombP1O5nEm1qBC----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-8d1cb73f-e0cd-4d68-bb82-1212f8b37e3b@mhtml.blink
+
+@charset "windows-1252";
+
+nav { background-color: black; }
+
+nav a { color: white; margin: 15px; text-decoration: none; font-size: 18px;=
+ }
+
+nav a:hover { color: yellow; }
+------MultipartBoundary--mPXRrUg1vIUqvIvYea1jLx94JYoGombP1O5nEm1qBC------

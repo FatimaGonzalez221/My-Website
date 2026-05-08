@@ -1,0 +1,75 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///media/archive/NewSandboxProgram.zip/index.html
+Subject: My First Website
+Date: Fri, 8 May 2026 09:05:31 -0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--9HdLe57Mcp1yIkaB1z0fkBil02XZQebCJfOVQ2pKP8----"
+
+
+------MultipartBoundary--9HdLe57Mcp1yIkaB1z0fkBil02XZQebCJfOVQ2pKP8----
+Content-Type: text/html
+Content-ID: <frame-99A67090112396AC181999CC7D5F0370@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///media/archive/NewSandboxProgram.zip/index.html
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-446698=
+a2-b2d1-4089-8386-a0e978c3965d@mhtml.blink" /></head><body><h1>Hello World =
+</h1>
+
+
+    <title>My First Website</title>
+
+
+<a href=3D"file:///media/archive/NewSandboxProgram.zip/about.html">About Me=
+</a>
+
+    <h1>Welcome to my Webpage</h1>
+    <p>This is my first webpage.</p>
+    <footer>
+    <p>=C2=A92026 My website</p>
+    <p>Email:FatEGon6853@students.uplifteducation.org</p>
+</footer>
+
+
+     <title>My website</title>
+       =20
+   =20
+
+
+
+<h2>Personal info </h2>
+<ul>
+    <li> Favorite food:Aguachile</li>
+    Favorite hobby:Reading
+    <li>Dream career:Nurse</li>
+</ul>
+<h2>My Goals</h2>
+<p>I want to learn coding because it can help me later in my future.</p>
+
+<h2>My Background</h2>
+<p> Who am I ?: My name is Fatima Gonzalez I am the 2nd oldest and the only=
+ girl,I'm 15 years old and I am excited to share my website with you guys!!=
+!
+</p><p>Siblings:I have 3 brothers</p>
+<p>Culture:My parents are from a ranch close to  Zamora,Michoacan </p>
+<p></p>
+
+=20
+<img src=3D"https://via.placeholder.com/600x300" alt=3D"Website banner">
+<section>
+    <h2>About Me </h2>
+    <p>Welcome to my website!! Here you can learn more about me and my inte=
+rest.</p>
+</section></body></html>
+------MultipartBoundary--9HdLe57Mcp1yIkaB1z0fkBil02XZQebCJfOVQ2pKP8----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-446698a2-b2d1-4089-8386-a0e978c3965d@mhtml.blink
+
+@charset "utf-8";
+
+nav { background-color: black; }
+------MultipartBoundary--9HdLe57Mcp1yIkaB1z0fkBil02XZQebCJfOVQ2pKP8------

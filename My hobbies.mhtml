@@ -1,0 +1,37 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: file:///media/archive/NewSandboxProgram.zip/hobbies.html
+Subject: My hobbies
+Date: Fri, 8 May 2026 09:08:36 -0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--GsTG7umsI2qPbnAQhFn8XXuZgBkeqhnFtwnryhgrB8----"
+
+
+------MultipartBoundary--GsTG7umsI2qPbnAQhFn8XXuZgBkeqhnFtwnryhgrB8----
+Content-Type: text/html
+Content-ID: <frame-A7447318DA26A8616281A4F8A578873A@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: file:///media/archive/NewSandboxProgram.zip/hobbies.html
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3Dwindows-1252"><link rel=3D"stylesheet" type=3D"text/css" =
+href=3D"cid:css-1384cb64-2aa5-4bba-95eb-2fd8c3743aee@mhtml.blink" />
+    <title>My hobbies</title>
+   =20
+</head>
+<body></body></html>
+------MultipartBoundary--GsTG7umsI2qPbnAQhFn8XXuZgBkeqhnFtwnryhgrB8----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-1384cb64-2aa5-4bba-95eb-2fd8c3743aee@mhtml.blink
+
+@charset "windows-1252";
+
+nav { background-color: pink; padding: 10px; }
+
+nav a { color: white; margin: 15px; text-decoration: none; font-size: 18px;=
+ }
+
+nav a:hover { color: yellow; }
+------MultipartBoundary--GsTG7umsI2qPbnAQhFn8XXuZgBkeqhnFtwnryhgrB8------
